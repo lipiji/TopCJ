@@ -2,7 +2,7 @@ Top Conference Deadline
 =====
 | CJ        | Deadline           | Progress  |
 | ------------- |:-------------:| -----:|
-AAAI'15 : 2014-09-15 : x
+|AAAI'15 | 2014-09-15 | x |
 
 AISTATS'15 : 2014-10-24 : x
 
