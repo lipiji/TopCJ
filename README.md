@@ -20,6 +20,7 @@ Top Conference Deadline
 |CIKM'15 | 2015-05-8||
 |EMNLP'15-long | 2015-05-31 ||
 |ICDM'15| 2015-06-03||
+|NIPS'15| 2015-06-05 ||
 |EMNLP'15-short | 2015-06-15 ||
 |ICCV'15 | 2015-07-01 ||
 |WSDM'16 | 2015-07- ||
@@ -30,7 +31,6 @@ Top Conference Deadline
 |NAACL'16 | 2015-12- ||
 |SIGIR'16 | 2016-01-||
 |IJCAI'16 | 2016-02-||
-|NIPS|||
 |COLING|||
 |ECCV|||
 |UAI|||
