@@ -39,8 +39,5 @@ Top Conference Deadline
 |AIRS'16 | 2016-06-24(17)||
 |COLING'16 | 2016-07-15||
 |AAAI'16 | 2016-09-15(10)||
-|ECCV|||
-|UAI|||
-|ACCV|||
 
 
