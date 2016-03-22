@@ -37,6 +37,7 @@ Top Conference Deadline
 |CIKM'16 | 2016-05-16||
 |EMNLP'16 | 2016-06-03||
 |COLING'16 | 2016-07-15||
+|AAAI'16 | 2016-09-15(10)||
 |ECCV|||
 |UAI|||
 |ACCV|||
