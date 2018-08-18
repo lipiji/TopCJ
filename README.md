@@ -3,8 +3,8 @@ Top Conference Deadline
 
 #### @CUHK
 
-| Conference        | Deadline           | Progress  |
-| ------------- |:-------------:| -----:|
+| Conference        | Deadline           | Progress  | Acceptance Rate  |
+| ------------- |:-------------:| -----:|:-----:|
 |AAAI'15 | 2014-09-15 | x |
 |AISTATS'15 | 2014-10-24 | x |
 |WWW'15 | 2014-11-03 | x |
@@ -47,10 +47,10 @@ Top Conference Deadline
 |KDD'17 | 2016-12-09|x|
 |SIGIR'17 | 2017-01-24(17)|A1-A|
 |ICML'17 | 2017-02-05|x|
-|ACL'17 | 2017-02-06|A1-R,A1-R|
+|ACL'17 | 2017-02-06|A1-R,A1-R|25.0% (195/751)|
 |IJCAI'17 | 2017-02-19(16)|x|
 |ICCV'17 | 2017-03-17|x|
-|EMNLP'17 | 2017-04-14|A1-A,A1-A,A1w-A|
+|EMNLP'17 | 2017-04-14|A1-A,A1-A,A1w-A|26% (216/836)|
 |CIKM'17 | 2017-05-16(9)|A2s-R|
 |NIPS'17 | 2017-05-19|x|
 |IJCNLP'17 | 2017-07-07|A3-R|
@@ -64,21 +64,23 @@ Top Conference Deadline
 |KDD'18 | 2018|x|
 |SIGIR'18 | 2018-01-29(22)|A1-R|
 |IJCAI'18 | 2018-01-31(25)|A3-A,A3-A|
-|ACL'18 | 2018-02-22|A1-R|
+|ACL'18 | 2018-02-22|A1-R|25.3% (258/1018)|
 |COLING'18 | 2018-03-26|x|
 |ICML'18 | 2018|x|
 |NIPS'18| 2018-05-18|x|
 |CIKM'18| 2018-05-15(22) |A1-R|
 |EMNLP'18| 2018-05-22 |A3-A, A1-R, A3-R|
 #### @Tencent AI Lab
-| Conference        | Deadline           | Progress  |
-| ------------- |:-------------:| -----:|
+| Conference        | Deadline           | Progress  | Acceptance Rate  |
+| ------------- |:-------------:| -----:|:-----:|
 |AAAI'19|2018-09-05(01)||
 |ICLR'19|2018-09-27||
+|ICASSP'19|2018-10-29||
 |NAACL'19|2018-12-10(3)||
 |ACL'19|2019-02-||
 |SIGIR'19|2019-01-||
 |IJCAI'19|2019-02-25||
+
 
 
 
